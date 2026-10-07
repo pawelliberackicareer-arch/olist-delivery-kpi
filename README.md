@@ -157,7 +157,6 @@ Download the dataset from Kaggle and put the CSV files in `data/raw/`, then:
 ```
 python run_all.py
 ```
-Result: `output/olist_delivery_report.xlsx` and the charts in `output/charts/`.
 
 ## Limits
 
