@@ -114,14 +114,8 @@ Four charts are saved as PNG files with titles, axis labels and reference lines 
 | Audit list | 83 flagged sellers in priority order + chart |
 | Data quality | The quality log from step 2 |
 
-![Excel report - summary](docs/excel_summary.png)
-
-![Excel report - audit list](docs/excel_audit_list.png)
-
 ### Step 9 · One command runs everything
 `run_all.py` runs steps 2–8 in order. If a step fails, the pipeline stops (`check=True`), so the report is never built on wrong data.
-
-![Pipeline run](docs/run_all.png)
 
 ---
 
