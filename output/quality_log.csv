@@ -1,0 +1,8 @@
+table,check,rows
+orders,status delivered but no delivery date,8
+orders,delivered before it was bought,0
+orders,given to carrier after it reached the customer,23
+items,price zero or below,0
+reviews,review score outside 1-5,0
+reviews,orders with more than one review,547
+items,orders with more than one seller,1278
